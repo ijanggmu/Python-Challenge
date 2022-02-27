@@ -11,6 +11,6 @@ n1 = int(input('number'))
 n2 = int(input('number'))
 
 # call the function with n1 and n2 as arguments
-# store the returned value in the total variable
+# store the returned value in the total variablest
 total = get_product(n1, n2)
 print(total)
